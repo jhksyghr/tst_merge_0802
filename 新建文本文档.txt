@@ -1,4 +1,5 @@
 1.sw两个口打开上拉
 2.不用的口 closeinputchannelf'd'sa
-3.iic closeinput。
-4.32
+3.iicf closeinput。
+4.32ffdsa
+5.f
